@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- 1.hibernate-mapping对象关系映射的根元素，其它元素必须嵌套在此元素内 -->
+<hibernate-mapping package="com.free.one.entity"><!-- 2.package为实体类在哪个包下 -->
+    <!--
+        3.class中name为持久化的实体类（Customer），table为映射到数据库中的表名（CUSTOMERS），
+        如果没有设置table，默认类名作为表名
+    -->
+    <!--<class name="Customer" table="CUSTOMERS">-->
+    <!--&lt;!&ndash; -->
+    <!--4.以下配置属性解释: -->
+    <!--4.1 name为实体类属性-->
+    <!--4.2 column为映射到数据库中的字段名，如果没有配置column，默认使用name属性作为映射后数据库表字段名-->
+    <!--4.3 type为字段类型，如果没有设置type，映射时自动采用实体类的java类型，对应映射数据库字段类型-->
+    <!--java类型映射到数据库类型参照表:-->
+    <!--java类型>>>>>>>>>>数据库类型-->
+    <!--string           VARCHAR-->
+    <!--int              INT-->
+    <!--character        CHAR-->
+    <!--boolean          BIT-->
+    <!--text             TEXT-->
+    <!--binary           BLOB-->
+    <!--date             DATE-->
+    <!--timestamp        TIMESTAMP-->
+    <!--4.4 not-null设置该字段是否允许为null，-->
+    <!--4.5 length设置字段的长度 -->
+    <!--&ndash;&gt;-->
+    <!--&lt;!&ndash; 设置主键 &ndash;&gt;-->
+    <!--<id name="id" column="ID" type="long">-->
+    <!--&lt;!&ndash; 主键生成方式&ndash;&gt;-->
+    <!--<generator class="increment"/>-->
+    <!--</id>-->
+    <!--&lt;!&ndash; 基本属性，基本属性必须设置在主键之口&ndash;&gt;-->
+    <!---->
+    <!--</class>-->
+
+</hibernate-mapping>

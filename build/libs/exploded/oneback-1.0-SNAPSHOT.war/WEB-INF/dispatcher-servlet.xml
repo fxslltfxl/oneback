@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:mvc="http://www.springframework.org/schema/mvc"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:tx="http://www.springframework.org/schema/tx"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd
+       http://www.springframework.org/schema/mvc
+       http://www.springframework.org/schema/mvc/spring-mvc.xsd
+       http://www.springframework.org/schema/context
+       http://www.springframework.org/schema/context/spring-context.xsd
+       http://www.springframework.org/schema/tx
+       http://www.springframework.org/schema/tx/spring-tx.xsd">
+    <!-- dataSource config-->
+    <bean id="dataSource"
+          class="org.springframework.jdbc.datasource.DriverManagerDataSource">
+        <property name="driverClassName" value="com.mysql.jdbc.Driver"/>
+        <property name="url" value="jdbc:mysql://localhost:3306/test?useUnicode=true&amp;characterEncoding=UTF-8"/>
+        <property name="username" value="root"/>
+        <property name="password" value="12345678"/>
+    </bean>
+    <!--hibernate config-->
+    <bean id="sessionFactory" class="org.springframework.orm.hibernate5.LocalSessionFactoryBean">
+        <property name="dataSource" ref="dataSource"/>
+        <property name="configLocation" value="classpath:hibernate.cfg.xml"/>
+        <property name="mappingResources">
+            <list>
+                <value>hibernate.hbm.xml</value>
+            </list>
+        </property>
+    </bean>
+    <!--transactionManager-->
+    <bean id="transactionManager" class="org.springframework.orm.hibernate5.HibernateTransactionManager">
+        <property name="sessionFactory" ref="sessionFactory"/>
+    </bean>
+    <context:annotation-config/>
+    <!-- component-scan 的包 -->
+    <context:component-scan base-package="com.free.one"/>
+    <!-- 支持  @Transactional 标记 -->
+    <tx:annotation-driven transaction-manager="transactionManager"/>
+    <!-- 控制器映射器和控制器适配器 -->
+    <mvc:annotation-driven/>
+</beans>
+
+        <!-- PlatformTransactionMnager -->
+        <!--<bean id="txManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">-->
+        <!--<property name="dataSource" ref="dataSource"/>-->
+        <!--</bean>-->
+        <!--<tx:annotation-driven transaction-manager="transactionManager"/>-->
+        <!--&lt;!&ndash;  声明式容器事务管理 ,transaction-manager指定事务管理器为transactionManager &ndash;&gt;-->
+        <!--<tx:advice id="txAdvice" transaction-manager="transactionManager">-->
+        <!--<tx:attributes>-->
+        <!--&lt;!&ndash; 定义方法的事务参数&ndash;&gt;-->
+        <!--<tx:method name="save" propagation="REQUIRED" read-only="false"/>-->
+        <!--<tx:method name="save*" propagation="REQUIRED" read-only="false"/>-->
+        <!--<tx:method name="get*" propagation="REQUIRED" read-only="true"/>-->
+        <!--<tx:method name="find*" propagation="REQUIRED" read-only="true"/>-->
+        <!--<tx:method name="del*" propagation="REQUIRED" read-only="false"/>-->
+        <!--<tx:method name="do*" propagation="REQUIRED" read-only="false"/>-->
+        <!--</tx:attributes>-->
+        <!--</tx:advice>-->
+        <!--<bean id="hibernateTemplate" class="org.springframework.orm.hibernate5.HibernateTemplate">-->
+        <!--<property name="sessionFactory" ref="sessionFactory"/>-->
+        <!--<property name="checkWriteOperations" value="false"/>-->
+        <!--</bean>-->

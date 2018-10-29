@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+
+    <session-factory>
+        <property name="connection.driver_class">com.mysql.jdbc.Driver</property>
+        <property name="connection.url">jdbc:mysql://localhost:3306/test?useUnicode=true&amp;characterEncoding=UTF-8
+        </property>
+        <property name="connection.username">root</property>
+        <property name="connection.password">12345678</property>
+        <!--jdbc.use_scrollable_resultset是否允许Hibernate用JDBC的可滚动的结果集。对分页的结果集。对分页时的设置非常有帮助-->
+        <property name="jdbc.use_scrollable_resultset">false</property>
+        <!--connection.useUnicode连接数据库时是否使用Unicode编码-->
+        <!--<property name="Connection.useUnicode">true</property>-->
+        <!--connection.characterEncoding连接数据库时数据的传输字符集编码方式，最好设置为gbk，用gb2312有的字符不全-->
+        <!--<property name="connection.characterEncoding">UTF-8</property>-->
+        <property name="dialect">org.hibernate.dialect.MySQL5Dialect</property>
+        <!--Hibernate会在运行的时候同时将所执行的SQL语句输出到控制台-->
+        <property name="show_sql">true</property>
+        <property name="format_sql">true</property>
+        <property name="hbm2ddl.auto">update</property>
+
+        <!-- 基于annotation的配置 -->
+        <mapping class="com.free.one.entity.User"/>
+        <!--map-->
+        <mapping resource="hibernate.hbm.xml"/>
+    </session-factory>
+
+</hibernate-configuration>
