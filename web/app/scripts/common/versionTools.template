@@ -1,0 +1,11 @@
+﻿app.provider("versionTools", function () {
+    this.lastBuildTimeStamp="<%lastModifyDate%>";
+    this.$get = function () {
+	    var lastBuildTimeStamp = this.lastBuildTimeStamp;
+        return {
+            getLastBuildTimeStamp: function () {
+                return lastBuildTimeStamp;
+            }
+        }
+    };
+});

@@ -41,6 +41,7 @@
     <tx:annotation-driven transaction-manager="transactionManager"/>
     <!-- 控制器映射器和控制器适配器 -->
     <mvc:annotation-driven/>
+    <mvc:default-servlet-handler/>
 </beans>
 
         <!-- PlatformTransactionMnager -->

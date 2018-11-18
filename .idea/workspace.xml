@@ -6,7 +6,349 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df824504-f9fd-4097-bc9b-ee3d9557a2e3" name="Default Changelist" comment="" />
+    <list default="true" id="df824504-f9fd-4097-bc9b-ee3d9557a2e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-animate/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-animate/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-animate/angular-animate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-animate/angular-animate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-animate/angular-animate.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-animate/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-animate/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-animate/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-cookies/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-cookies/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-cookies/angular-cookies.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-cookies/angular-cookies.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-cookies/angular-cookies.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-cookies/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-cookies/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-cookies/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-route/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-route/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-route/angular-route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-route/angular-route.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-route/angular-route.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-route/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-route/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-route/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-smart-table/ISSUE_TEMPLATE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-smart-table/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-smart-table/changeLog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-smart-table/dist/smart-table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-smart-table/dist/smart-table.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-smart-table/dist/smart-table.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-smart-table/gulpFile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-smart-table/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-smart-table/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-smart-table/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-smart-table/src/bottom.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-smart-table/src/smart-table.module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-smart-table/src/stConfig.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-smart-table/src/stPagination.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-smart-table/src/stPipe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-smart-table/src/stSearch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-smart-table/src/stSelectRow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-smart-table/src/stSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-smart-table/src/stTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-smart-table/src/top.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-smart-table/test/init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-smart-table/test/karma.common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-smart-table/test/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-smart-table/test/spec/stPagination.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-smart-table/test/spec/stPipe.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-smart-table/test/spec/stSearch.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-smart-table/test/spec/stSelectRow.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-smart-table/test/spec/stSort.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-smart-table/test/spec/stTable.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-smart-table/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-touch/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-touch/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-touch/angular-touch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-touch/angular-touch.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-touch/angular-touch.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-touch/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-touch/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-touch/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/dist/ui-bootstrap-csp.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/dist/ui-bootstrap-tpls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/dist/ui-bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/accordion/accordion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/accordion/docs/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/accordion/docs/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/accordion/docs/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/accordion/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/accordion/test/accordion.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/alert/alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/alert/docs/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/alert/docs/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/alert/docs/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/alert/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/alert/test/alert.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/buttons/buttons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/buttons/docs/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/buttons/docs/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/buttons/docs/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/buttons/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/buttons/test/buttons.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/carousel/carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/carousel/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/carousel/docs/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/carousel/docs/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/carousel/docs/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/carousel/index-nocss.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/carousel/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/carousel/test/carousel.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/collapse/collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/collapse/docs/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/collapse/docs/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/collapse/docs/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/collapse/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/collapse/test/collapse.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/collapse/test/collapseHorizontally.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/dateparser/dateparser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/dateparser/docs/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/dateparser/docs/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/dateparser/docs/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/dateparser/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/dateparser/test/dateparser.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/datepicker/datepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/datepicker/datepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/datepicker/docs/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/datepicker/docs/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/datepicker/docs/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/datepicker/index-nocss.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/datepicker/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/datepicker/test/datepicker.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/datepickerPopup/docs/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/datepickerPopup/docs/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/datepickerPopup/docs/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/datepickerPopup/index-nocss.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/datepickerPopup/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/datepickerPopup/popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/datepickerPopup/popup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/datepickerPopup/test/popup.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/debounce/debounce.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/debounce/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/debounce/test/debounce.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/dropdown/docs/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/dropdown/docs/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/dropdown/docs/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/dropdown/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/dropdown/index-nocss.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/dropdown/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/dropdown/test/dropdown.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/isClass/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/isClass/isClass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/isClass/test/isClass.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/modal/docs/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/modal/docs/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/modal/docs/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/modal/index-nocss.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/modal/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/modal/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/modal/test/modal.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/multiMap/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/multiMap/multiMap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/multiMap/test/multiMap.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/pager/docs/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/pager/docs/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/pager/docs/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/pager/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/pager/pager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/pager/test/pager.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/pagination/docs/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/pagination/docs/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/pagination/docs/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/pagination/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/pagination/pagination.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/pagination/test/pagination.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/paging/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/paging/paging.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/paging/test/paging.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/popover/docs/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/popover/docs/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/popover/docs/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/popover/index-nocss.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/popover/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/popover/popover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/popover/test/popover-html.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/popover/test/popover-template.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/popover/test/popover.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/position/docs/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/position/docs/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/position/docs/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/position/index-nocss.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/position/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/position/position.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/position/position.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/position/test/position.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/position/test/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/progressbar/docs/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/progressbar/docs/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/progressbar/docs/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/progressbar/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/progressbar/progressbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/progressbar/test/progressbar.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/rating/docs/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/rating/docs/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/rating/docs/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/rating/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/rating/rating.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/rating/test/rating.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/stackedMap/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/stackedMap/stackedMap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/stackedMap/test/stackedMap.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/tabindex/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/tabindex/tabindex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/tabindex/test/tabindex.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/tabs/docs/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/tabs/docs/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/tabs/docs/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/tabs/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/tabs/tabs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/tabs/test/tabs.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/timepicker/docs/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/timepicker/docs/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/timepicker/docs/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/timepicker/index-nocss.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/timepicker/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/timepicker/test/timepicker.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/timepicker/timepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/timepicker/timepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/tooltip/docs/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/tooltip/docs/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/tooltip/docs/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/tooltip/index-nocss.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/tooltip/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/tooltip/test/tooltip-template.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/tooltip/test/tooltip.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/tooltip/test/tooltip2.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/tooltip/tooltip.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/tooltip/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/typeahead/docs/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/typeahead/docs/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/typeahead/docs/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/typeahead/index-nocss.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/typeahead/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/typeahead/test/typeahead-highlight-ngsanitize.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/typeahead/test/typeahead-highlight.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/typeahead/test/typeahead-parser.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/typeahead/test/typeahead-popup.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/typeahead/test/typeahead.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/typeahead/typeahead.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/src/typeahead/typeahead.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/accordion/accordion-group.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/accordion/accordion-group.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/accordion/accordion.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/accordion/accordion.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/alert/alert.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/alert/alert.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/carousel/carousel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/carousel/carousel.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/carousel/slide.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/carousel/slide.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/datepicker/datepicker.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/datepicker/datepicker.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/datepicker/day.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/datepicker/day.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/datepicker/month.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/datepicker/month.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/datepicker/popup.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/datepicker/year.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/datepicker/year.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/datepickerPopup/popup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/datepickerPopup/popup.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/modal/backdrop.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/modal/window.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/modal/window.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/pager/pager.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/pager/pager.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/pagination/pagination.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/pagination/pagination.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/popover/popover-html.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/popover/popover-html.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/popover/popover-template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/popover/popover-template.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/popover/popover.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/popover/popover.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/progressbar/bar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/progressbar/bar.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/progressbar/progress.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/progressbar/progress.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/progressbar/progressbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/progressbar/progressbar.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/rating/rating.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/rating/rating.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/tabs/tab.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/tabs/tab.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/tabs/tabset.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/tabs/tabset.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/timepicker/timepicker.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/timepicker/timepicker.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/tooltip/tooltip-html-popup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/tooltip/tooltip-html-popup.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/tooltip/tooltip-popup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/tooltip/tooltip-popup.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/tooltip/tooltip-template-popup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/tooltip/tooltip-template-popup.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/typeahead/typeahead-match.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/typeahead/typeahead-match.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/typeahead/typeahead-popup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/template/typeahead/typeahead-popup.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular/angular-csp.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular/angular.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular/angular.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular/angular.min.js.gzip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular/angular.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/libs/angular/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/scripts/common/apiTools-production.template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/scripts/common/apiTools.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/scripts/common/httpProxy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/scripts/common/javascriptExtension.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/scripts/common/local.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/scripts/common/tools.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/scripts/common/upload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/scripts/common/versionTools.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/scripts/common/versionTools.template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/scripts/controllers/homeController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/scripts/filters/email.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/scripts/filters/ip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/scripts/filters/mobile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/scripts/filters/number.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/scripts/filters/password.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/scripts/filters/port.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/scripts/filters/stabelLevel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/scripts/filters/userName.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/scripts/filters/userNo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/views/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/oneback_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/oneback_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/oneback_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/oneback_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/oneback-1.0-SNAPSHOT.war/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/exploded/oneback-1.0-SNAPSHOT.war/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/oneback-1.0-SNAPSHOT.war/WEB-INF/classes/com/free/one/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/exploded/oneback-1.0-SNAPSHOT.war/WEB-INF/classes/com/free/one/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/bootWar/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/bootWar/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/war/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/war/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/META-INF/oneback_main.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/free/one/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/free/one/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/free/one/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/free/one/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -96,51 +438,65 @@
     <session id="-2075579152">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="13" />
-          <entry key="project.open.time.1" value="7" />
+          <entry key="project.closed" value="17" />
+          <entry key="project.open.time.1" value="11" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.opened" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="LICENSE" value="1" />
           <entry key="MF" value="1" />
           <entry key="WEB-INF" value="1" />
           <entry key="bat" value="1" />
           <entry key="class" value="1" />
+          <entry key="css" value="4" />
           <entry key="gradle" value="12" />
           <entry key="gradlew" value="2" />
+          <entry key="html" value="6" />
           <entry key="java" value="99" />
-          <entry key="jsp" value="5" />
+          <entry key="js" value="65" />
+          <entry key="json" value="6" />
+          <entry key="jsp" value="6" />
           <entry key="properties" value="3" />
-          <entry key="xml" value="32" />
-          <entry key="xsd" value="2" />
+          <entry key="template" value="3" />
+          <entry key="xml" value="38" />
+          <entry key="xsd" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
+          <entry key="CSS" value="4" />
           <entry key="Groovy" value="12" />
+          <entry key="HTML" value="6" />
           <entry key="JAVA" value="99" />
-          <entry key="JSP" value="5" />
+          <entry key="JSON" value="6" />
+          <entry key="JSP" value="6" />
+          <entry key="JavaScript" value="65" />
           <entry key="Manifest" value="1" />
-          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="PLAIN_TEXT" value="8" />
           <entry key="Properties" value="3" />
-          <entry key="XML" value="34" />
+          <entry key="XML" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="4" />
           <entry key="gradle" value="19" />
+          <entry key="html" value="169" />
           <entry key="java" value="1812" />
+          <entry key="js" value="204" />
+          <entry key="json" value="176" />
           <entry key="properties" value="37" />
-          <entry key="xml" value="779" />
+          <entry key="xml" value="782" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.mvc.usages" />
@@ -149,45 +505,50 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="19" />
+          <entry key="HTML" value="169" />
           <entry key="JAVA" value="1812" />
+          <entry key="JSON" value="176" />
+          <entry key="JavaScript" value="204" />
           <entry key="PLAIN_TEXT" value="4" />
           <entry key="Properties" value="37" />
-          <entry key="XML" value="779" />
+          <entry key="XML" value="782" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.run.usages" />
     </session>
+    <session id="-1568229061">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="10" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/free/one/controller/UserController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#448#449#0" expanded="true" />
-                <element signature="e#482#483#0" expanded="true" />
-                <element signature="e#677#678#0" expanded="true" />
-                <element signature="e#714#715#0" expanded="true" />
-                <element signature="e#810#811#0" expanded="true" />
-                <element signature="e#855#856#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.0.9.RELEASE/c19005e8a2a2216b0e9da304f1dce8ba0d72e110/spring-web-5.0.9.RELEASE-sources.jar!/org/springframework/web/bind/annotation/ResponseBody.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -196,13 +557,23 @@
         <option value="spring-beans.schema" />
         <option value="FxmlFile" />
         <option value="Class" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
+    <findStrings>
+      <find>src</find>
+      <find>dist</find>
+      <find>uglify</find>
+    </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/src/main/java/com/free/one/dao</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -408,7 +779,7 @@
     <option name="modificationStamps">
       <map>
         <entry key="$USER_HOME$/.gradle/gradle.properties" value="0" />
-        <entry key="$PROJECT_DIR$" value="7689490259000" />
+        <entry key="$PROJECT_DIR$" value="7698342714000" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/build.gradle" value="2214912689" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="2007532874" />
@@ -547,7 +918,6 @@
         <option value="$PROJECT_DIR$/src/main/java/controller/DemoController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/generatorConfig.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/free/one/DBConfig/DataBaseConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/free/one/DB/w.java" />
         <option value="$PROJECT_DIR$/src/test/java/HibernateTest.java" />
         <option value="$PROJECT_DIR$/src/test/resources/hibernate.cfg.xml" />
@@ -558,7 +928,6 @@
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/resources/hibernate.hbm.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/free/one/controller/DemoController.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/free/one/common/DB/HibernateUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/free/one/dao/UserDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/free/one/test.java" />
@@ -567,11 +936,24 @@
         <option value="$PROJECT_DIR$/src/main/java/com/free/one/application/Application.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/free/one/entity/User.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/free/one/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/web/package-lock.json" />
+        <option value="$PROJECT_DIR$/web/app/view/home.html" />
+        <option value="$PROJECT_DIR$/web/package.json" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" />
+        <option value="$PROJECT_DIR$/web/app/index.html" />
+        <option value="$PROJECT_DIR$/web/app/app.js" />
+        <option value="$PROJECT_DIR$/web/config.js" />
+        <option value="$PROJECT_DIR$/web/app/scripts/controllers/homeController.js" />
+        <option value="$PROJECT_DIR$/web/app/views/home.html" />
+        <option value="$PROJECT_DIR$/web/gulpfile.js" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/web/package.json" />
+  </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
@@ -580,6 +962,58 @@
   </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/web/gulpfile.js</gulpfile-path>
+        <tasks>
+          <GulpTaskState>
+            <task-name>clean</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>copy-angular</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>copy-jquery</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>copy-bootstrap_css</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>copy-bootstrap_font</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>copy-bootstrap_js</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>copy-others</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>copy-otherlibs</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>application</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>css</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>default</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>dev</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>connect</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>livereload:demo</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>watch</task-name>
+          </GulpTaskState>
+        </tasks>
+      </GulpfileState>
+    </gulpfiles>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="LogFilters">
@@ -595,21 +1029,47 @@
       <select />
     </treeState>
   </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/web/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/web/app/libs/angular-animate/package.json" />
+      <path value="$PROJECT_DIR$/web/app/libs/angular-cookies/package.json" />
+      <path value="$PROJECT_DIR$/web/app/libs/angular-route/package.json" />
+      <path value="$PROJECT_DIR$/web/app/libs/angular-smart-table/package.json" />
+      <path value="$PROJECT_DIR$/web/app/libs/angular-touch/package.json" />
+      <path value="$PROJECT_DIR$/web/app/libs/angular-ui-bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/web/app/libs/angular/package.json" />
+      <path value="$PROJECT_DIR$/web/package.json" />
+    </packageJsonPaths>
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="1680" />
     <option name="y" value="23" />
     <option name="width" value="1920" />
     <option name="height" value="1057" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <flattenPackages ProjectPane="false" />
       <showMembers ProjectPane="true" />
       <hideEmptyPackages ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="oneback" type="58d84e3e:PackageViewProjectNode" />
+              <item name="oneback_main" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -617,159 +1077,66 @@
               <item name="oneback" type="b2602c69:ProjectViewProjectNode" />
               <item name="oneback" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
-            <path>
-              <item name="oneback" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oneback" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oneback" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oneback" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="oneback" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oneback" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oneback" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oneback" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="one" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oneback" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oneback" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="one" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oneback" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oneback" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="one" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oneback" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oneback" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oneback" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oneback" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oneback" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oneback" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oneback" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="oneback" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: org.springframework:spring-web:5.0.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="oneback" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: org.springframework:spring-web:5.0.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-web-5.0.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oneback" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: org.springframework:spring-web:5.0.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-web-5.0.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oneback" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: org.springframework:spring-web:5.0.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-web-5.0.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oneback" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: org.springframework:spring-web:5.0.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-web-5.0.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="bind" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oneback" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: org.springframework:spring-web:5.0.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-web-5.0.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="bind" type="462c0819:PsiDirectoryNode" />
-              <item name="annotation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oneback" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="oneback" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="oneback" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="oneback" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="oneback" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="oneback_main" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="oneback" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="web" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540793255129" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542531344401" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/web/node_modules/gulp" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.35103512" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web/app" />
+      <recent name="$PROJECT_DIR$/web/dist/libs/bootstrap/fonts" />
       <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web/dist/libs/bootstrap/fonts" />
+      <recent name="$PROJECT_DIR$/web/app/scripts" />
+      <recent name="$PROJECT_DIR$/web" />
       <recent name="$PROJECT_DIR$/src/test/resources" />
       <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/free/one/DBConfig" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -784,20 +1151,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.oneback">
-    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="oneback_main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.free.one.application.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.free.one.application.Application" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Gulp.js.default">
     <configuration name="oneback" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="oneback" ALTERNATIVE_JRE_ENABLED="false">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
@@ -869,13 +1223,58 @@
         </option>
       </method>
     </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="application" type="js.build_tools.gulp" factoryName="Gulp.js" temporary="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/web/gulpfile.js</gulpfile>
+      <tasks>
+        <task>application</task>
+      </tasks>
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="default" type="js.build_tools.gulp" factoryName="Gulp.js" temporary="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/web/gulpfile.js</gulpfile>
+      <tasks>
+        <task>default</task>
+      </tasks>
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/web/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Tomcat Server.oneback" />
-      <item itemvalue="Spring Boot.Application" />
+      <item itemvalue="Gulp.js.default" />
+      <item itemvalue="npm.start" />
+      <item itemvalue="Gulp.js.application" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.Application" />
+        <item itemvalue="Gulp.js.default" />
+        <item itemvalue="npm.start" />
+        <item itemvalue="Gulp.js.application" />
       </list>
     </recent_temporary>
   </component>
@@ -902,6 +1301,13 @@
       <workItem from="1540782406228" duration="422000" />
       <workItem from="1540791828296" duration="1327000" />
       <workItem from="1540793727127" duration="366000" />
+      <workItem from="1542517756561" duration="290000" />
+      <workItem from="1542518061838" duration="1000" />
+      <workItem from="1542518097347" duration="44000" />
+      <workItem from="1542518145923" duration="103000" />
+      <workItem from="1542518255748" duration="3870000" />
+      <workItem from="1542522334391" duration="3266000" />
+      <workItem from="1542525735670" duration="3844000" />
     </task>
     <servers />
   </component>
@@ -938,7 +1344,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52683000" />
+    <option name="totallyTimeSpent" value="64101000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -951,9 +1357,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1680" y="23" width="1920" height="1057" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4936306" visible="true" weight="0.26464325" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49469215" visible="true" weight="0.27263045" />
       <window_info id="Structure" order="1" sideWeight="0.5063694" side_tool="true" weight="0.27902022" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -962,6 +1367,8 @@
       <window_info id="Capture Tool" order="6" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info id="Persistence" order="8" side_tool="true" />
+      <window_info id="npm" order="9" sideWeight="0.5042463" side_tool="true" weight="0.26996806" />
+      <window_info id="Gulp" order="10" sideWeight="0.50530785" side_tool="true" weight="0.27263045" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32908705" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.53927815" />
@@ -972,12 +1379,12 @@
       <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49946752" weight="0.29617834" />
       <window_info anchor="bottom" id="Application Servers" order="8" sideWeight="0.49946752" weight="0.32908705" />
       <window_info anchor="bottom" id="Spring" order="9" weight="0.32908705" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32908705" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5005325" side_tool="true" weight="0.32908705" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32908705" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" sideWeight="0.49946752" weight="0.32908705" />
-      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" weight="0.32908705" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -994,6 +1401,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -1035,272 +1468,50 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/free/one/DBConfig/Initializer.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/generatorConfig.xml" />
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/mysql/mysql-connector-java/5.1.40/169f98ed31b49399530fede5b3806782026b965/mysql-connector-java-5.1.40-sources.jar!/com/mysql/jdbc/Driver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/hibernate.cfg.xml" />
-    <entry file="file://$PROJECT_DIR$/gradlew.bat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1414" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/mysql/mysql-connector-java/5.1.40/169f98ed31b49399530fede5b3806782026b965/mysql-connector-java-5.1.40-sources.jar!/com/mysql/jdbc/SQLError.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="917" selection-start-line="917" selection-end-line="917" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.3.7.Final/26585924d06c52b66e5917ceb314b005ec73b389/hibernate-core-5.3.7.Final-sources.jar!/org/hibernate/dialect/MySQLDialect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/hibernate.cfg.xml" />
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.3.7.Final/26585924d06c52b66e5917ceb314b005ec73b389/hibernate-core-5.3.7.Final-sources.jar!/org/hibernate/annotations/Table.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-212">
-          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/HibernateTest.java" />
-    <entry file="file://$PROJECT_DIR$/gradlew">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.persistence/javax.persistence-api/2.2/462dff65f6f8bde02ee9d8afe07fe9d50268199c/javax.persistence-api-2.2-sources.jar!/javax/persistence/Entity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.0.9.RELEASE/c19005e8a2a2216b0e9da304f1dce8ba0d72e110/spring-web-5.0.9.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="49" column="18" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.3.7.Final/26585924d06c52b66e5917ceb314b005ec73b389/hibernate-core-5.3.7.Final-sources.jar!/org/hibernate/SessionFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/5.0.9.RELEASE/65f56fdab1bb90ad059e314d2f2f4cf76f9bdbde/spring-beans-5.0.9.RELEASE.jar!/org/springframework/beans/factory/xml/spring-beans.xsd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="539" column="4" selection-start-line="539" selection-start-column="4" selection-end-line="539" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.0.9.RELEASE/d3a13fc3c56bdddd8144a686ed64f0cdb3ad7305/spring-tx-5.0.9.RELEASE.jar!/org/springframework/transaction/config/spring-tx.xsd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.0.9.RELEASE/c6031a79af89e9dd4a111909f27ce6dbf60687b/spring-tx-5.0.9.RELEASE-sources.jar!/org/springframework/transaction/annotation/Transactional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="770">
-          <caret line="57" column="18" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-orm/5.1.1.RELEASE/d6cb73f08fed5aea51b792c8a514af22cfc60c1e/spring-orm-5.1.1.RELEASE-sources.jar!/org/springframework/orm/hibernate5/LocalSessionFactoryBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="76" column="13" selection-start-line="76" selection-start-column="13" selection-end-line="76" selection-end-column="13" />
-          <folding>
-            <element signature="e#5649#5650#0" expanded="true" />
-            <element signature="e#5684#5685#0" expanded="true" />
-            <element signature="e#6050#6051#0" expanded="true" />
-            <element signature="e#6111#6112#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat/2.0.5.RELEASE/eaac8a5d73b45400bc88cd7f6b5c99b5f0d5e9b7/spring-boot-starter-tomcat-2.0.5.RELEASE.jar!/META-INF/MANIFEST.MF">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/5.0.9.RELEASE/631cf6fd5e89e7797b0504994338fe07c983a551/spring-webmvc-5.0.9.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="157" column="13" selection-start-line="157" selection-start-column="13" selection-end-line="157" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-      <provider editor-type-id="com.intellij.jsf.yfilesGraph.editor.FacesNavigationFileEditorProvider" />
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-orm/5.1.1.RELEASE/d6cb73f08fed5aea51b792c8a514af22cfc60c1e/spring-orm-5.1.1.RELEASE-sources.jar!/org/springframework/orm/hibernate5/HibernateTransactionManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="158" column="16" selection-start-line="158" selection-start-column="16" selection-end-line="158" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/free/one/common/DB/HibernateUtil.java" />
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.0.9.RELEASE/c19005e8a2a2216b0e9da304f1dce8ba0d72e110/spring-web-5.0.9.RELEASE-sources.jar!/org/springframework/web/bind/annotation/PostMapping.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.0.9.RELEASE/c19005e8a2a2216b0e9da304f1dce8ba0d72e110/spring-web-5.0.9.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RequestBody.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-orm/5.1.1.RELEASE/d6cb73f08fed5aea51b792c8a514af22cfc60c1e/spring-orm-5.1.1.RELEASE-sources.jar!/org/springframework/orm/hibernate5/support/HibernateDaoSupport.java">
+    <entry file="file://$PROJECT_DIR$/web/LICENSE">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret line="77" column="75" lean-forward="true" selection-start-line="77" selection-start-column="75" selection-end-line="77" selection-end-column="75" />
+          <caret column="7" selection-start-column="4" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.0.9.RELEASE/c19005e8a2a2216b0e9da304f1dce8ba0d72e110/spring-web-5.0.9.RELEASE-sources.jar!/org/springframework/web/bind/annotation/ModelAttribute.java">
+    <entry file="file://$PROJECT_DIR$/web/app/view1/view1.spec.js" />
+    <entry file="file://$PROJECT_DIR$/web/app/view1/view1.js" />
+    <entry file="file://$PROJECT_DIR$/web/app/app.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="58" column="18" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.0.9.RELEASE/c19005e8a2a2216b0e9da304f1dce8ba0d72e110/spring-web-5.0.9.RELEASE-sources.jar!/org/springframework/web/bind/annotation/PathVariable.java">
+    <entry file="file://$PROJECT_DIR$/web/app/scripts/common/Enum.js" />
+    <entry file="file://$PROJECT_DIR$/web/app/scripts/directives/spinner.js" />
+    <entry file="file://$PROJECT_DIR$/web/app/scripts/filters/ip.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/dist/libs/angular/angular-cookies.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="47" column="21" lean-forward="true" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+        <state relative-caret-position="198">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-orm/5.1.1.RELEASE/d6cb73f08fed5aea51b792c8a514af22cfc60c1e/spring-orm-5.1.1.RELEASE-sources.jar!/org/springframework/orm/hibernate5/HibernateTemplate.java">
+    <entry file="file://$PROJECT_DIR$/web/dist/libs/bootstrap/fonts/font-awesome.css" />
+    <entry file="file://$PROJECT_DIR$/web/dist/libs/bootstrap/fonts/font-awesome.min.css" />
+    <entry file="file://$PROJECT_DIR$/web/app/dist/libs/angular/angular.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/dist/libs/jquery/jquery.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="460" column="17" selection-start-line="460" selection-start-column="17" selection-end-line="460" selection-end-column="17" />
+        <state relative-caret-position="301">
+          <caret line="3929" column="32" selection-start-line="3929" selection-start-column="32" selection-end-line="3929" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/free/one/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.0.9.RELEASE/c19005e8a2a2216b0e9da304f1dce8ba0d72e110/spring-web-5.0.9.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="135" selection-start-line="135" selection-end-line="135" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.0.9.RELEASE/9f9a828936d81afd49a603bda9cc1aed863a0d85/spring-core-5.0.9.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="33" column="110" selection-start-line="33" selection-start-column="110" selection-end-line="33" selection-end-column="110" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.0.9.RELEASE/c19005e8a2a2216b0e9da304f1dce8ba0d72e110/spring-web-5.0.9.RELEASE-sources.jar!/org/springframework/web/bind/annotation/DeleteMapping.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-websocket/8.5.34/ae38c94ef87f320a699e37eb66b484bc6b485bdb/tomcat-embed-websocket-8.5.34-sources.jar!/javax/websocket/server/ServerEndpoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/free/one/entity/User.java">
+    <entry file="file://$PROJECT_DIR$/web/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/free/one/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/free/one/dao/UserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="808">
-          <caret line="43" column="69" lean-forward="true" selection-start-line="43" selection-start-column="69" selection-end-line="43" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="28" column="35" lean-forward="true" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+          <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
         </state>
       </provider>
     </entry>
@@ -1317,78 +1528,190 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/hibernate.hbm.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
-          <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.0.9.RELEASE/c19005e8a2a2216b0e9da304f1dce8ba0d72e110/spring-web-5.0.9.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RequestMapping.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/node_modules/gulp-uglify/lib/create-error.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="837">
-          <caret line="76" column="18" selection-start-line="76" selection-start-column="18" selection-end-line="76" selection-end-column="18" />
+        <state relative-caret-position="110">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/free/one/base/BaseDao.java">
+    <entry file="file://$PROJECT_DIR$/web/node_modules/gulp-uglify/node_modules/lodash/_apply.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#522#523#0" expanded="true" />
-            <element signature="e#577#578#0" expanded="true" />
-            <element signature="e#973#974#0" expanded="true" />
-            <element signature="e#1024#1025#0" expanded="true" />
-            <element signature="e#1154#1155#0" expanded="true" />
-            <element signature="e#1219#1220#0" expanded="true" />
-            <element signature="e#1250#1251#0" expanded="true" />
-            <element signature="e#1303#1304#0" expanded="true" />
-            <element signature="e#1332#1333#0" expanded="true" />
-            <element signature="e#1401#1402#0" expanded="true" />
-            <element signature="e#1433#1434#0" expanded="true" />
-            <element signature="e#1501#1502#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="145">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/free/one/application/Application.java">
+    <entry file="file://$PROJECT_DIR$/web/node_modules/gulp-uglify/node_modules/lodash/_createCurry.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="145">
+          <caret line="40" column="11" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.3.7.Final/26585924d06c52b66e5917ceb314b005ec73b389/hibernate-core-5.3.7.Final-sources.jar!/org/hibernate/Session.java">
+    <entry file="file://$PROJECT_DIR$/web/node_modules/gulp-uglify/lib/minify.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="837">
-          <caret line="1149" column="37" selection-start-line="1149" selection-start-column="37" selection-end-line="1149" selection-end-column="37" />
+        <state relative-caret-position="136">
+          <caret line="53" column="14" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.0.9.RELEASE/c19005e8a2a2216b0e9da304f1dce8ba0d72e110/spring-web-5.0.9.RELEASE-sources.jar!/org/springframework/web/bind/annotation/ResponseBody.java">
+    <entry file="file://$PROJECT_DIR$/web/node_modules/through2/node_modules/readable-stream/lib/_stream_writable.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+        <state relative-caret-position="346">
+          <caret line="333" column="10" selection-start-line="333" selection-start-column="10" selection-end-line="333" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/free/one/controller/UserController.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/5.0.9.RELEASE/c18346caaeb8dc648c4cc01874996fd9fef76664/spring-webmvc-5.0.9.RELEASE.jar!/org/springframework/web/servlet/config/spring-mvc.xsd">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-            <element signature="e#482#483#0" expanded="true" />
-            <element signature="e#677#678#0" expanded="true" />
-            <element signature="e#714#715#0" expanded="true" />
-            <element signature="e#810#811#0" expanded="true" />
-            <element signature="e#855#856#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="301">
+          <caret line="670" column="4" selection-start-line="670" selection-start-column="4" selection-end-line="670" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.jsf.yfilesGraph.editor.FacesNavigationFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/scripts/common/apiTools.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/scripts/common/apiTools-production.template">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/scripts/common/httpProxy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2009" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/scripts/common/javascriptExtension.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1935" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/scripts/common/local.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/scripts/common/tools.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3879" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/scripts/common/upload.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/scripts/common/versionTools.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/scripts/common/versionTools.template">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/scripts/filters/email.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/scripts/filters/mobile.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/scripts/filters/number.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/scripts/filters/password.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="126" selection-start-line="12" selection-start-column="113" selection-end-line="12" selection-end-column="126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/node_modules/gulp-csso/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/scripts/controllers/homeController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/views/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/dist/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1795">
+          <caret line="776" column="15" selection-start-line="776" selection-start-column="15" selection-end-line="776" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/scripts/filters/userNo.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/scripts/filters/userName.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/scripts/filters/stabelLevel.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/scripts/filters/port.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1253">
+          <caret line="73" column="53" selection-start-line="73" selection-start-column="53" selection-end-line="73" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/karma.conf.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="633">
+          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -1489,11 +1812,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring|oneback_main|oneback</last-edited>
+          <last-edited>web</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.35103512" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
