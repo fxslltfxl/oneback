@@ -1,0 +1,46 @@
+{
+  "name": "one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -a localhost -p 8689 -c-1 ./app"
+  },
+  "author": "fxs",
+  "license": "ISC",
+  "devDependencies": {
+    "angular": "1.6.1",
+    "angular-animate": "1.6.1",
+    "angular-cookies": "1.6.1",
+    "angular-route": "1.6.1",
+    "angular-touch": "1.6.1",
+    "angular-ui-bootstrap": "2.5.6",
+    "bootstrap": "3.3.7",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.5.0",
+    "gulp-csso": "^3.0.1",
+    "gulp-jshint": "^2.1.0",
+    "gulp-less": "^3.5.0",
+    "gulp-mobilizer": "^0.0.3",
+    "gulp-rename": "^1.2.3",
+    "gulp-sequence": "^1.0.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-strip-debug": "^3.0.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-util": "^3.0.8",
+    "install": "^0.11.0",
+    "jquery": "1.12.4",
+    "ng-file-upload": "12.2.13",
+    "npm": "^6.1.0",
+    "toastr": "2.1.4",
+    "wait-on": "^2.1.0",
+    "ngstorage": "^0.3.11"
+  },
+  "dependencies": {
+    "angular-smart-table": "^2.1.11",
+    "cpx": "^1.5.0",
+    "http-server": "^0.11.1"
+  }
+}

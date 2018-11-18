@@ -30,7 +30,7 @@ public class UserController {
         mService.update(user);
     }
 
-    @RequestMapping("/test/{name}")
+    @RequestMapping("/loadAll/{name}")
     public List<User> loadAll(@PathVariable String name) {
         return mService.loadAll(name);
     }

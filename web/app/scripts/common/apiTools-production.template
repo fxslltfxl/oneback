@@ -1,0 +1,11 @@
+﻿app.provider("apiTools", function () {
+    this.apiUrl = "http://api.feedback.zemic.cn/vending-machine-api/";
+    this.$get = function () {
+        var apiUrl = this.apiUrl;
+        return {
+            getApiUrl: function () {
+                return apiUrl;
+            }
+        }
+    };
+});
